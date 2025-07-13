@@ -1,0 +1,1 @@
+here how install docs:https://www.mathworks.com/help/releases/R2023a/install/ug/install-documentation-on-offline-machines.html
